@@ -1,0 +1,1 @@
+# vatansmsnetprivacypolicy.github.io
