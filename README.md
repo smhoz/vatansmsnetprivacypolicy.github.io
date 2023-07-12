@@ -30,7 +30,7 @@ We want to inform users of this Service that these third parties have access to 
 Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 Data Deletion Request
-Our users who may want their data to be deleted should contact us via email (info@jemiyet.com)
+Our users who may want their data to be deleted should contact us via email (destek@vatansms.net)
 
 # Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
