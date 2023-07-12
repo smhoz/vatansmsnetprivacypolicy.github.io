@@ -10,6 +10,8 @@ User's Image Information
 We collect your user image information (as profile pictures) to provide a better-personalized service for you.
 
 # User's Contact List
+Our application requests the necessary permissions to access users' contact lists. This permission includes the collection and usage of personal data only with the user's consent and as specified in our privacy policy. Our privacy policy includes appropriate measures to protect users' privacy rights and ensure the security of the collected data."
+
 We upload your contact list to our server(https://api.toplusmspaketleri.com ) upon your permission in order to find the users already signed up for our system. We do not store your contact list information and immediately delete it after the requested process is done.
 The app does use third party services that may collect information used to identify you.
 Log Data
